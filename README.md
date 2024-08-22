@@ -1,5 +1,12 @@
 ## Sales Report
-This project explores sales data to understand top-performing branches and products, product sales trends, and customer behavior. The goal is to study how sales strategies can be improved and optimized.
+This project explores sales data to understand top-performing products, product sales trends, and customer behavior. The goal is to study how sales strategies can be improved and optimized.
+
+## Aim of the Project
+Analyze sales performance across various metrics.
+Identify top-performing products and markets.
+Optimize sales strategies for better profitability.
+Support data-driven business decisions.
+
 ### Data Analysis Using SQL
 1.	Retrieve all customers.
 2.	List all products and their types.
