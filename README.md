@@ -33,7 +33,8 @@ Support data-driven business decisions.
 22.	![Dashboard1](https://github.com/user-attachments/assets/727c875e-0e64-4b8c-971c-56c80b8e3a79)
 
 23.	# DAshboard 2
-        ![Dashboard2](https://github.com/user-attachments/assets/e0ab84f6-b619-4ea2-9892-ede5525dddd3)
+        ![Dashboard2](https://github.com/user-attachments/assets/897b8589-fc84-4c36-8fd5-a603ecefe997)
+
 
 24.	# Dashboard 3 
         ![Dashboard3](https://github.com/user-attachments/assets/032f7c5a-bac0-4c23-8963-889a1d85f0cf)
