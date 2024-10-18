@@ -29,6 +29,10 @@ Support data-driven business decisions.
 19.	Find customers who have made purchases in all available markets.
 20.	List transactions made in the last 30 days.
 
+21.	# Dashboard 1
+22.	![Dashboard1](https://github.com/user-attachments/assets/727c875e-0e64-4b8c-971c-56c80b8e3a79)
+
+
 	
 
 
